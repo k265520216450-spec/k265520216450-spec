@@ -1,18 +1,15 @@
-<!-- Banner Vũ Trụ + Trái Đất Tự Xoay 3D + Chữ Gõ Tự Động -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=space&height=280&section=header&text=Hi%20Aliens!%20I'm%20Tr%E1%BA%A7n%20V%C4%83n%20B%C3%ACnh&fontSize=35&fontColor=ffffff&fontAlignY=38&desc=From%20TNUT%20-%20Earth%20🌍&descAlignY=58&descAlign=50&stroke=00f3ff&strokeWidth=1" width="100%" />
-</div>
 
-<div align="center">
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/ahmedhosna95/upload-images/main/earth.gif" width="150" alt="Spinning Earth 3D" />
-  </p>
-  
+  <!-- Trái Đất Xoay 3D -->
+  <img src="https://media.giphy.com/media/u11m20oSoM1oI/giphy.gif" width="160" alt="Spinning Earth" />
+
+  <!-- Chữ Gõ Máy Tự Động -->
   <h1>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=Hi+Aliens!+I'm+Tr%E1%BA%A7n+V%C4%83n+B%C3%ACnh+from+the+Earth;Student+@+TNUT+(ĐH+Kỹ+Thuật+Công+Nghiệp);Tech+Enthusiast+%26+Developer+💻" alt="Typing SVG" />
     </a>
   </h1>
+
 </div>
 
 <br>
@@ -43,13 +40,9 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/k265520216450-spec">
-    <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k265520216450-spec&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/k265520216450-spec">
-    <img width="434" align="center" src="https://github-readme-stats.vercel.app/api?username=k265520216450-spec&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=k265520216450-spec&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" />
+  &nbsp;
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k265520216450-spec&theme=synthwave&layout=compact&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
@@ -73,11 +66,3 @@
   <p><strong>☕ Trang Portfolio Cá Nhân (Học phần Năng lực số - TNUT)</strong></p>
   <p>🔗 <strong>Link Repo:</strong> <a href="https://github.com/k265520216450-spec/portfolio" target="_blank">k265520216450-spec/portfolio</a></p>
 </div>
-
-<br>
-<h2 align="center">📑 My Favorite Quote 📑</h2>
-<br>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Favorite Quote" />
-</p>
